@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anantmudawadkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant mudawadkar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anant_21920010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anant_21920010" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anant-mudawadkar-8003bb195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant mudawadkar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/anant_21920010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anant_21920010" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
